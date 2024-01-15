@@ -22,3 +22,22 @@ You can find my contact information and get in touch with me on my website.
 
 Thanks for visiting my profile. Check out my portfolios, and feel free to connect or collaborate with me. I'm 
 excited to see what we can create together!
+
+#### Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yumeangelica&theme=light&background=ffd3ea&border=fab9ff&ring=fab9ff&fire=fab9ff&currStreakLabel=black&sideLabels=black)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeangelica&layout=compact&text_color=black&bg_color=e5e4ff)
+
+
+#### Main languages, frameworks, and tools: 
+
+![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,vue&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres&theme=light)
+
