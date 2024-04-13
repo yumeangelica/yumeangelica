@@ -1,27 +1,25 @@
-👋 Hi, I'm Angelica, a passionate programmer and full-stack web developer with a keen interest in digital marketing,
-Japanese culture, and music creation.
+👋 Hi, I'm Angelica, a passionate full-stack web developer with a deep interest in cybersecurity. I'm also keen on digital marketing and web accessibility, and I have a fondness for Japanese culture and music creation.
 
 🌱 Always Learning and Building
 
-I'm constantly working on exciting projects and expanding my skill set. My commitment to lifelong learning ensures
-I'm always up to date with the latest developments in technology and design.
+I'm constantly working on exciting projects and expanding my skill set. My commitment to lifelong learning ensures I'm always up to date with the latest developments in technology and design.
 
 💼 My Portfolio
 
-Feel free to explore my web development portfolio for examples of my work. You can find it on my website, where I
-showcase my projects and experiences in detail.
+Explore my [web development portfolio](https://yumeangelica.github.io), where I showcase detailed projects and experiences. It's a reflection of my journey in building accessible web solutions tailored to meet diverse user needs.
 
-🤝 Let's Collaborate
 
-I'm open to collaborating on projects that align with my skillset. If you have an interesting project in mind or
-want to work together, don't hesitate to reach out.
+🤝 Let's collaborate and explore opportunities
+
+I'm not only open to collaborations that leverage my skill set in full-stack development but also actively seeking new career opportunities. If you have a project in mind, are looking for a technical partner, or have an exciting job opportunity, please don't hesitate to contact me.
+
 
 📫 How to Reach Me
 
-You can find my contact information and get in touch with me on my website.
+For inquiries or potential collaborations, you can find my contact details and reach out to me through my website.
 
-Thanks for visiting my profile. Check out my portfolios, and feel free to connect or collaborate with me. I'm
-excited to see what we can create together!
+Thank you for visiting my profile. Feel free to explore my portfolio, connect, or collaborate on future projects. I look forward to creating something great together!
+
 
 #### Stats:
 
@@ -33,11 +31,24 @@ excited to see what we can create together!
 
 #### Main languages, frameworks, and tools:
 
-![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,vue&theme=light)
+##### Web backend technologies & databases:
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,firebase&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap&theme=light)
+##### Web frontend technologies & intuitive store
+![My Skills](https://skillicons.dev/icons?i=react,vue,pinia&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker&theme=light)
+##### Additional web technologies
+![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,bootstrap&theme=light)
 
+##### Web design
+![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
+
+##### Testing tools
+![My Skills](https://skillicons.dev/icons?i=jest,cypress&theme=light)
+
+##### Version control, CI/CD, and cloud services
+![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,azure&theme=light)
+
+##### Programming languages & databases
 ![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres&theme=light)
 
