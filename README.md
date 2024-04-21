@@ -1,21 +1,20 @@
 ## ${\color{#B86BC6}About\ Me}$
 
-:woman_technologist: Hi, I'm Angelica, a passionate full-stack web developer with a deep interest in cybersecurity. I'm also keen on digital marketing and web accessibility, and I have a fondness for Japanese culture and music creation.
+:woman_technologist: Hi, I'm Angelica, a full-stack web developer with a focus on cybersecurity, and digital marketing. I am deeply engaged with Japanese culture and music production, which inspires my innovative approach in technology.
 
-I'm constantly working on exciting projects and expanding my skill set. My commitment to lifelong learning ensures I'm always up to date with the latest developments in technology and design.
+I am committed to continuous learning, constantly updating my skills to lead in technology and design.
 
 
 ## ${\color{#B86BC6}My\ Portfolio}$
 
-Explore my <a href="https://yumeangelica.github.io">web development portfolio</a>, where I showcase detailed projects and experiences. It's a reflection of my journey in building accessible web solutions tailored to meet diverse user needs.
+Explore my <a href="https://yumeangelica.github.io">portfolio</a> to see how I build web solutions that are both accessible and effective, tailored to diverse user needs. Each project highlights my commitment to innovative design and smart technology.
 
 
 ## ${\color{#B86BC6}Let's\ Collaborate}$
 
-I'm not only open to collaborations that leverage my skill set in full-stack development but also actively seeking new career opportunities. If you have a project in mind, are looking for a technical partner, or have an exciting job opportunity, please don't hesitate to contact me.
+Looking for a technical co-founder or thinking about a new role that leverages full-stack development skills? Let's talk! I’m actively seeking new professional opportunities.
 
-
-For inquiries or potential collaborations, you can find my contact details and reach out to me through my website.
+Contact me through my <a href="https://yumeangelica.github.io">website</a> for inquiries or potential collaborations.
 
 
 ## ${\color{#B86BC6}My\ GitHub\ Stats}$
