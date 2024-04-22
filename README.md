@@ -1,20 +1,20 @@
 ## ${\color{#B86BC6}About\ Me}$
 
-:woman_technologist: Hi, I'm Angelica, a full-stack web developer with a focus on cybersecurity, and digital marketing. I am deeply engaged with Japanese culture and music production, which inspires my innovative approach in technology.
+:woman_technologist: Hi, I'm Angelica, a full-stack web developer specializing in cybersecurity and digital marketing. My passions for Japanese culture and music production drive my innovative approach in tech.
 
-I am committed to continuous learning, constantly updating my skills to lead in technology and design.
+:seedling: I'm committed to continuous learning, always evolving to stay at the forefront of technology and design.
 
 
 ## ${\color{#B86BC6}My\ Portfolio}$
 
-Explore my <a href="https://yumeangelica.github.io">portfolio</a> to see how I build web solutions that are both accessible and effective, tailored to diverse user needs. Each project highlights my commitment to innovative design and smart technology.
+:sparkles: Explore my <a href="https://yumeangelica.github.io">portfolio</a> to see how I build accessible and effective web solutions tailored to diverse user needs. Each project is a showcase of my commitment to innovative design and smart technology.
 
 
 ## ${\color{#B86BC6}Let's\ Collaborate}$
 
-Looking for a technical co-founder or thinking about a new role that leverages full-stack development skills? Let's talk! I’m actively seeking new professional opportunities.
+:handshake: Actively looking for opportunities to leverage my full-stack development skills in dynamic environments. Interested in collaborating?
 
-Contact me through my <a href="https://yumeangelica.github.io">website</a> for inquiries or potential collaborations.
+:envelope: Connect with me through my <a href="https://yumeangelica.github.io">website</a> for opportunities to work together or to discuss potential projects!
 
 
 ## ${\color{#B86BC6}My\ GitHub\ Stats}$
