@@ -24,11 +24,11 @@
 
 ## ${\color{#bf77b0}My\ GitHub\ Stats}$
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yumeangelica&theme=light&hide_border=true&ring=c973b7&fire=c973b7&currStreakNum=c973b7&sideNums=c973b7&currStreakLabel=c973b7&sideLabels=c973b7&dates=c973b7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yumeangelica&theme=light&hide_border=true&ring=CC7FDA&fire=CC7FDA&currStreakNum=CC7FDA&sideNums=CC7FDA&currStreakLabel=CC7FDA&sideLabels=CC7FDA&dates=CC7FDA)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeangelica&layout=compact&text_color=black&title_color=c973b7&bg_color=f3dbfe&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeangelica&layout=compact&text_color=black&title_color=CC7FDA&bg_color=f3dbfe&theme=light)
 
-![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeangelica&show_icons=true&count_private=true&include_all_commits=true&theme=light&title_color=c973b7&icon_color=cf93c2&text_color=black&bg_color=f3dbfe)
+![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeangelica&show_icons=true&count_private=true&include_all_commits=true&theme=light&title_color=CC7FDA&icon_color=CC7FDA&text_color=black&bg_color=f3dbfe)
 
 
 ## ${\color{#bf77b0}Main\ languages,\ frameworks,\ and\ tools}$
