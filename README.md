@@ -1,4 +1,4 @@
-## ${\color{#bf77b0}About\ Me}$
+## ${\color{#b06a9f}About\ Me}$
 
 :woman_technologist: Hi, I'm Angelica—a passionate **full-stack developer** with a strong interest in **cybersecurity**. My background in **Business Administration** and **digital marketing** has given me a unique perspective on software development, allowing me to build **optimized**, **accessible**, and **secure** web solutions.
 
@@ -8,13 +8,13 @@
 
 ---
 
-## ${\color{#bf77b0}My\ Portfolio}$
+## ${\color{#b06a9f}My\ Portfolio}$
 
 ✨ Explore my projects at [my portfolio](https://yumeangelica.github.io/), where I focus on **scalable**, **accessible**, and **secure** web solutions.
 
 ---
 
-## ${\color{#bf77b0}Let's\ Connect}$
+## ${\color{#b06a9f}Let's\ Connect}$
 
 🤝 Open to **new opportunities**—let’s collaborate!
 
@@ -22,44 +22,44 @@
 
 
 
-## ${\color{#bf77b0}My\ GitHub\ Stats}$
+## ${\color{#b06a9f}My\ GitHub\ Stats}$
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yumeangelica&theme=light&hide_border=true&ring=CC7FDA&fire=CC7FDA&currStreakNum=CC7FDA&sideNums=CC7FDA&currStreakLabel=CC7FDA&sideLabels=CC7FDA&dates=CC7FDA)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yumeangelica&theme=light&hide_border=true&ring=b06a9f&fire=b06a9f&currStreakNum=b06a9f&sideNums=b06a9f&currStreakLabel=b06a9f&sideLabels=b06a9f&dates=b06a9f)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeangelica&layout=compact&text_color=black&title_color=CC7FDA&bg_color=f3dbfe&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeangelica&layout=compact&text_color=black&title_color=b06a9f&bg_color=f0dfec&theme=light)
 
-![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeangelica&show_icons=true&count_private=true&include_all_commits=true&theme=light&title_color=CC7FDA&icon_color=CC7FDA&text_color=black&bg_color=f3dbfe)
+![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeangelica&show_icons=true&count_private=true&include_all_commits=true&theme=light&title_color=b06a9f&icon_color=b06a9f&text_color=black&bg_color=f0dfec)
 
 
-## ${\color{#bf77b0}Main\ languages,\ frameworks,\ and\ tools}$
+## ${\color{#b06a9f}Main\ languages,\ frameworks,\ and\ tools}$
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,django&theme=light)
 
-## ${\color{#bf77b0}Web\ frontend\ technologies\ and\ intuitive\ store}$
+## ${\color{#b06a9f}Web\ frontend\ technologies\ and\ intuitive\ store}$
 
 ![My Skills](https://skillicons.dev/icons?i=react,redux,vue,pinia&theme=light)
 
 
-## ${\color{#bf77b0}Additional\ web\ technologies}$
+## ${\color{#b06a9f}Additional\ web\ technologies}$
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,bootstrap&theme=light)
 
-## ${\color{#bf77b0}Web\ design}$
+## ${\color{#b06a9f}Web\ design}$
 
 ![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
 
 
-## ${\color{#bf77b0}Testing\ tools}$
+## ${\color{#b06a9f}Testing\ tools}$
 
 ![My Skills](https://skillicons.dev/icons?i=jest,cypress&theme=light)
 
 
-## ${\color{#bf77b0}Version\ control,\ CI/CD,\ and\ cloud\ services}$
+## ${\color{#b06a9f}Version\ control,\ CI/CD,\ and\ cloud\ services}$
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,azure&theme=light)
 
 
-## ${\color{#bf77b0}Programming\ languages\ and\ databases}$
+## ${\color{#b06a9f}Programming\ languages\ and\ databases}$
 
 
 ![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres,mysql&theme=light)
