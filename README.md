@@ -31,35 +31,37 @@
 ![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeangelica&show_icons=true&count_private=true&include_all_commits=true&theme=light&title_color=b06a9f&icon_color=b06a9f&text_color=black&bg_color=f0dfec)
 
 
-## ${\color{#b06a9f}Main\ languages,\ frameworks,\ and\ tools}$
+## ${\color{#b06a9f}Main\ tech\ stack\ and\ tools}$
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,django&theme=light)
+### ${\color{#b06a9f}Back\ end\ technologies\ and\ databases}$
 
-## ${\color{#b06a9f}Web\ frontend\ technologies\ and\ intuitive\ store}$
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,django,firebase&theme=light)
+
+### ${\color{#b06a9f}Web\ frontend\ technologies\ and\ state\ management}$
 
 ![My Skills](https://skillicons.dev/icons?i=react,redux,vue,pinia&theme=light)
 
 
-## ${\color{#b06a9f}Additional\ web\ technologies}$
+### ${\color{#b06a9f}Web\ development\ fundamentals}$
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,bootstrap&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,css,html,bootstrap&theme=light)
 
-## ${\color{#b06a9f}Web\ design}$
+### ${\color{#b06a9f}UI/UX\ design}$
 
 ![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
 
 
-## ${\color{#b06a9f}Testing\ tools}$
+### ${\color{#b06a9f}Testing\ and\ automation}$
 
 ![My Skills](https://skillicons.dev/icons?i=jest,cypress&theme=light)
 
 
-## ${\color{#b06a9f}Version\ control,\ CI/CD,\ and\ cloud\ services}$
+### ${\color{#b06a9f}Version\ control,\ CI/CD,\ and\ cloud\ services}$
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,azure&theme=light)
 
 
-## ${\color{#b06a9f}Programming\ languages\ and\ databases}$
+### ${\color{#b06a9f}Programming\ languages\ and\ relational\ databases}$
 
 
 ![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres,mysql&theme=light)
