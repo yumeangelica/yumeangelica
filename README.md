@@ -35,33 +35,28 @@
 
 ### ${\color{#b06a9f}Back\ end\ technologies\ and\ databases}$
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,django,firebase&theme=light)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light "Node.js") ![Express](https://skillicons.dev/icons?i=express&theme=light "Express.js") ![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light "MongoDB") ![Django](https://skillicons.dev/icons?i=django&theme=light "Django") ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light "Firebase")
 
 ### ${\color{#b06a9f}Web\ frontend\ technologies\ and\ state\ management}$
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,vue,pinia&theme=light)
-
+![React](https://skillicons.dev/icons?i=react&theme=light "React") ![Redux](https://skillicons.dev/icons?i=redux&theme=light "Redux") ![Vue](https://skillicons.dev/icons?i=vue&theme=light "Vue.js") ![Pinia](https://skillicons.dev/icons?i=pinia&theme=light "Pinia")
 
 ### ${\color{#b06a9f}Web\ development\ fundamentals}$
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,php,css,html,bootstrap&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light "TypeScript") ![PHP](https://skillicons.dev/icons?i=php&theme=light "PHP") ![CSS](https://skillicons.dev/icons?i=css&theme=light "CSS") ![HTML](https://skillicons.dev/icons?i=html&theme=light "HTML") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light "Bootstrap")
 
 ### ${\color{#b06a9f}UI/UX\ design}$
 
-![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
-
+![Figma](https://skillicons.dev/icons?i=figma&theme=light "Figma")
 
 ### ${\color{#b06a9f}Testing\ and\ automation}$
 
-![My Skills](https://skillicons.dev/icons?i=jest,cypress&theme=light)
-
+![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress")<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
 
 ### ${\color{#b06a9f}Version\ control,\ CI/CD,\ and\ cloud\ services}$
 
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,azure&theme=light)
-
+![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure")
 
 ### ${\color{#b06a9f}Programming\ languages\ and\ relational\ databases}$
 
-
-![My Skills](https://skillicons.dev/icons?i=python,sqlite,postgres,mysql&theme=light)
+![Python](https://skillicons.dev/icons?i=python&theme=light "Python") ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light "SQLite") ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light "PostgreSQL") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light "MySQL")
