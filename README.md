@@ -59,4 +59,4 @@
 
 ### ${\color{#b06a9f}Programming\ languages\ and\ relational\ databases}$
 
-![Python](https://skillicons.dev/icons?i=python&theme=light "Python") ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light "SQLite") ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light "PostgreSQL") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light "MySQL")
+![Python](https://skillicons.dev/icons?i=python&theme=light "Python") ![Java](https://skillicons.dev/icons?i=java&theme=light "Java") ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light "SQLite") ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light "PostgreSQL") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light "MySQL")
