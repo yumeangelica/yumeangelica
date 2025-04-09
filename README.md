@@ -39,11 +39,11 @@
 
 ### ${\color{#b06a9f}Web\ frontend\ technologies\ and\ state\ management}$
 
-![React](https://skillicons.dev/icons?i=react&theme=light "React") ![Redux](https://skillicons.dev/icons?i=redux&theme=light "Redux") ![Vue](https://skillicons.dev/icons?i=vue&theme=light "Vue.js") ![Pinia](https://skillicons.dev/icons?i=pinia&theme=light "Pinia")
+![React](https://skillicons.dev/icons?i=react&theme=light "React") ![Redux](https://skillicons.dev/icons?i=redux&theme=light "Redux") ![Vue](https://skillicons.dev/icons?i=vue&theme=light "Vue.js") ![Pinia](https://skillicons.dev/icons?i=pinia&theme=light "Pinia") ![Vite](https://skillicons.dev/icons?i=vite&theme=light "Vite")
 
 ### ${\color{#b06a9f}Web\ development\ fundamentals}$
 
-![JavaScript](https://skillicons.dev/icons?i=js&theme=light "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light "TypeScript") ![PHP](https://skillicons.dev/icons?i=php&theme=light "PHP") ![CSS](https://skillicons.dev/icons?i=css&theme=light "CSS") ![HTML](https://skillicons.dev/icons?i=html&theme=light "HTML") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light "Bootstrap")
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light "TypeScript") ![PHP](https://skillicons.dev/icons?i=php&theme=light "PHP") ![CSS](https://skillicons.dev/icons?i=css&theme=light "CSS") ![Sass](https://skillicons.dev/icons?i=sass&theme=light "Sass") ![HTML](https://skillicons.dev/icons?i=html&theme=light "HTML") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light "Bootstrap")
 
 ### ${\color{#b06a9f}UI/UX\ design}$
 
@@ -51,11 +51,11 @@
 
 ### ${\color{#b06a9f}Testing\ and\ automation}$
 
-![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress")<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
+![Vitest](https://skillicons.dev/icons?i=vitest&theme=light "Vitest") ![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
 
 ### ${\color{#b06a9f}Version\ control,\ CI/CD,\ and\ cloud\ services}$
 
-![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure")
+![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure")
 
 ### ${\color{#b06a9f}Programming\ languages\ and\ relational\ databases}$
 
