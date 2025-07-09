@@ -1,10 +1,9 @@
 ## ${\color{#b06a9f}About\ Me}$
+:woman_technologist: Hi, I'm Angelica, a full-stack developer who absolutely loves diving into cybersecurity! With a solid background in Business Administration and digital marketing, I bring a fresh and creative perspective to software development. My goal is always to build web solutions that are optimized, accessible, and above all, secure.
 
-:woman_technologist: Hi, I'm Angelica—a passionate **full-stack developer** with a strong interest in **cybersecurity**. My background in **Business Administration** and **digital marketing** has given me a unique perspective on software development, allowing me to build **optimized**, **accessible**, and **secure** web solutions.
+💡 I’ve been tackling complex challenges in agile environments since 2020, developing impactful applications across the entire tech stack. I hold a degree in Information and Communications Technology, complemented by extensive studies in computer science. Currently, I work as a Software Developer at OP Financial Group, and in the evenings, you'll often find me coding my own personal projects.
 
-💡 Since 2020, I've been solving complex challenges in **agile environments**, working across the stack to create impactful applications. I hold a degree in **Information and Communications Technology** and have completed extensive studies in **computer science**.
-
-🎵 Outside of coding, I enjoy **producing music** and exploring **Japanese culture**—both of which inspire my creativity and problem-solving approach in tech.
+🎵 When I’m not immersed in code, I enjoy producing music and exploring everything about Japanese culture. Both inspire me endlessly and shape my creative and innovative approach to technology.
 
 ---
 
@@ -53,9 +52,9 @@
 
 ![Vitest](https://skillicons.dev/icons?i=vitest&theme=light "Vitest") ![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
 
-### ${\color{#b06a9f}Version\ control,\ CI/CD,\ and\ cloud\ services}$
+### ${\color{#b06a9f}Version\ control,\ CI/CD,\, \ cloud\ services,\ and\ platforms}$
 
-![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure")
+![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure") ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi&theme=light "Raspberry Pi")
 
 ### ${\color{#b06a9f}Programming\ languages\ and\ relational\ databases}$
 
