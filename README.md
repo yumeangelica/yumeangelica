@@ -17,7 +17,9 @@
 
 🤝 I'm always excited to hear about new projects and collaborations. Feel free to reach out!
 
-📩 **Contact me:** [Website](https://yumeangelica.github.io/)
+📩 **Contact me:**
+- [Website](https://yumeangelica.github.io/)
+- [LinkedIn](www.linkedin.com/in/yumeangelica)
 
 
 
@@ -55,7 +57,7 @@
 
 ![Vitest](https://skillicons.dev/icons?i=vitest&theme=light "Vitest") ![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
 
-### ${\color{#b06a9f}Version\ control,\ CI/CD,\, \ cloud,\ and\ platforms}$
+### ${\color{#b06a9f}Version\ control,\ CI/CD, \ cloud,\ and\ platforms}$
 
 ![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure") ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi&theme=light "Raspberry Pi")
 
