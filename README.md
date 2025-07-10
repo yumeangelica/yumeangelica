@@ -19,7 +19,7 @@
 
 📩 **Contact me:**
 - [Website](https://yumeangelica.github.io/)
-- [LinkedIn](www.linkedin.com/in/yumeangelica)
+- [LinkedIn](https://linkedin.com/in/yumeangelica)
 
 
 
