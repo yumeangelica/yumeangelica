@@ -1,9 +1,11 @@
 ## ${\color{#b06a9f}About\ Me}$
-:woman_technologist: Hi, I'm Angelica, a full-stack developer who absolutely loves diving into cybersecurity! With a solid background in Business Administration and digital marketing, I bring a fresh and creative perspective to software development. My goal is always to build web solutions that are optimized, accessible, and above all, secure.
+:woman_technologist: Hi, I'm Angelica. I'm a full-stack developer with a strong focus on cybersecurity. I love working across the stack and product lifecycle, and I’m at my best turning real problems into clean, secure, and accessible software.
 
-💡 I’ve been tackling complex challenges in agile environments since 2020, developing impactful applications across the entire tech stack. I hold a degree in Information and Communications Technology, complemented by extensive studies in computer science. Currently, I work as a Software Developer at OP Financial Group, and in the evenings, you'll often find me coding my own personal projects.
+Since 2020 I’ve been building and maintaining production software, taking features from discovery to release and ongoing ownership. I’m comfortable moving between front end, back end, cloud, and automation, and I care deeply about secure coding, threat modeling, and practical defenses.
 
-🎵 When I’m not immersed in code, I enjoy producing music and exploring everything about Japanese culture. Both inspire me endlessly and shape my creative and innovative approach to technology.
+I hold a degree in Information and Communications Technology with additional studies in computer science. My background in Business Administration and digital marketing gives me solid product sense and a user first mindset. I currently work as a Software Developer at OP Financial Group in a highly regulated financial environment, and I keep exploring new ideas through personal projects in the evenings.
+
+🎵 Outside of work I produce music and dive into Japanese culture, which keeps me curious and fuels my creativity.
 
 ---
 
