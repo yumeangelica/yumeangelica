@@ -1,23 +1,22 @@
 ## ${\color{#b06a9f}About\ Me}$
-:woman_technologist: Hi, I'm Angelica. I'm a full-stack developer with a strong focus on cybersecurity. I love working across the stack and product lifecycle, and I’m at my best turning real problems into clean, secure, and accessible software.
 
-Since 2020 I’ve been building and maintaining production software, taking features from discovery to release and ongoing ownership. I’m comfortable moving between front end, back end, cloud, and automation, and I care deeply about secure coding, threat modeling, and practical defenses.
+:woman_technologist: Hi, I'm Angelica — a full-stack developer with an eye for design and a mind for security. Since 2020, I've been building accessible web applications in agile teams, and I think about *who* the software is for and *why* it matters.
 
-I hold a degree in Information and Communications Technology with additional studies in computer science. My background in Business Administration and digital marketing gives me solid product sense and a user first mindset. I currently work as a Software Developer at OP Financial Group in a highly regulated financial environment, and I keep exploring new ideas through personal projects in the evenings.
+I currently work as a Software Developer at **OP Financial Group**, building accessible frontend solutions with React, TypeScript, SCSS, and design systems in an international, regulated environment — plus backend (Java Spring Boot) and cloud work. Previously I worked as a full-stack developer at the **City of Helsinki** (Virittämö), primarily on backend with the MERN stack.
 
-🎵 Outside of work I produce music and dive into Japanese culture, which keeps me curious and fuels my creativity.
+I hold a degree in **Information and Communications Technology**, a **Bachelor's in Business Administration** from the University of Vaasa (graduated with excellence), and I'm **Microsoft SC-900** certified. My business background gives me solid product sense and a user-first mindset.
+
+🎵 Outside of coding, I produce music and explore Japanese culture — two things that keep me curious and fuel my creativity.
 
 ---
 
 ## ${\color{#b06a9f}Portfolio}$
 
-✨ Check out my latest work and projects at [my portfolio](https://yumeangelica.github.io/), where I focus on **scalable**, **accessible**, and **secure** web solutions.
+✨ Check out my latest work and projects at [my portfolio](https://yumeangelica.github.io/).
 
 ---
 
 ## ${\color{#b06a9f}Let's\ Connect}$
-
-🤝 I'm always excited to hear about new projects and collaborations. Feel free to reach out!
 
 📩 **Contact me:**
 - [Website](https://yumeangelica.github.io/)
@@ -29,46 +28,40 @@ I hold a degree in Information and Communications Technology with additional stu
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yumeangelica&theme=light&hide_border=true&ring=b06a9f&fire=b06a9f&currStreakNum=b06a9f&sideNums=b06a9f&currStreakLabel=b06a9f&sideLabels=b06a9f&dates=b06a9f)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumeangelica&layout=compact&text_color=black&title_color=b06a9f&bg_color=f0dfec&theme=light)
-
-![Angelica's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeangelica&show_icons=true&count_private=true&include_all_commits=true&theme=light&title_color=b06a9f&icon_color=b06a9f&text_color=black&bg_color=f0dfec)
+![Profile views](https://komarev.com/ghpvc/?username=yumeangelica&color=b06a9f&style=flat)
 
 
-## ${\color{#b06a9f}Tech\ stack\ and\ tools}$
+## ${\color{#b06a9f}Tech\ Stack\ \&\ Tools}$
 
 
-### ${\color{#b06a9f}Frontend\ and\ state\ management}$
+### ${\color{#b06a9f}Programming\ Languages}$
 
-![React](https://skillicons.dev/icons?i=react&theme=light "React") ![Redux](https://skillicons.dev/icons?i=redux&theme=light "Redux") ![Vue](https://skillicons.dev/icons?i=vue&theme=light "Vue.js") ![Pinia](https://skillicons.dev/icons?i=pinia&theme=light "Pinia") ![Vite](https://skillicons.dev/icons?i=vite&theme=light "Vite")
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light "TypeScript") ![Python](https://skillicons.dev/icons?i=python&theme=light "Python") ![Java](https://skillicons.dev/icons?i=java&theme=light "Java") ![PHP](https://skillicons.dev/icons?i=php&theme=light "PHP")
 
-### ${\color{#b06a9f}Back\ end\ and\ databases}$
+### ${\color{#b06a9f}Frontend\ Frameworks\ \&\ Libraries}$
 
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light "Node.js") ![Express](https://skillicons.dev/icons?i=express&theme=light "Express.js") ![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light "MongoDB") ![Django](https://skillicons.dev/icons?i=django&theme=light "Django") ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light "Firebase")
+![React](https://skillicons.dev/icons?i=react&theme=light "React") ![Redux](https://skillicons.dev/icons?i=redux&theme=light "Redux") ![Vue](https://skillicons.dev/icons?i=vue&theme=light "Vue.js") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="50" height="50"/> ![Pinia](https://skillicons.dev/icons?i=pinia&theme=light "Pinia")
 
+### ${\color{#b06a9f}Backend\ Frameworks}$
 
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light "Node.js") ![Express](https://skillicons.dev/icons?i=express&theme=light "Express.js") ![Django](https://skillicons.dev/icons?i=django&theme=light "Django") ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=light "Java Spring Boot")
 
-### ${\color{#b06a9f}Web\ fundamentals}$
+### ${\color{#b06a9f}Databases}$
 
-![JavaScript](https://skillicons.dev/icons?i=js&theme=light "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light "TypeScript") ![PHP](https://skillicons.dev/icons?i=php&theme=light "PHP") ![CSS](https://skillicons.dev/icons?i=css&theme=light "CSS") ![Sass](https://skillicons.dev/icons?i=sass&theme=light "Sass") ![HTML](https://skillicons.dev/icons?i=html&theme=light "HTML") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light "Bootstrap")
+![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light "MongoDB") ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light "Firebase") ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light "SQLite") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light "MySQL") ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light "PostgreSQL")
 
-### ${\color{#b06a9f}UI/UX\ design}$
+### ${\color{#b06a9f}Styling\ \&\ Design}$
 
-![Figma](https://skillicons.dev/icons?i=figma&theme=light "Figma")
+![HTML](https://skillicons.dev/icons?i=html&theme=light "HTML5") ![CSS](https://skillicons.dev/icons?i=css&theme=light "CSS3") ![Sass](https://skillicons.dev/icons?i=sass&theme=light "Sass") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light "Bootstrap") ![Figma](https://skillicons.dev/icons?i=figma&theme=light "Figma")
 
-### ${\color{#b06a9f}Testing\ and\ automation}$
+### ${\color{#b06a9f}Testing}$
 
-![Vitest](https://skillicons.dev/icons?i=vitest&theme=light "Vitest") ![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
+![Vitest](https://skillicons.dev/icons?i=vitest&theme=light "Vitest") ![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original-wordmark.svg" title="SonarQube" alt="SonarQube" width="50" height="50"/>
 
-### ${\color{#b06a9f}Version\ control,\ CI/CD, \ cloud,\ and\ platforms}$
+### ${\color{#b06a9f}Build\ \&\ Development\ Tools}$
 
-![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure") ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi&theme=light "Raspberry Pi")
+![Vite](https://skillicons.dev/icons?i=vite&theme=light "Vite") ![Webpack](https://skillicons.dev/icons?i=webpack&theme=light "Webpack")
 
-### ${\color{#b06a9f}Programming\ languages\ and\ relational\ databases}$
+### ${\color{#b06a9f}DevOps,\ CI/CD\ \&\ Cloud}$
 
-![Python](https://skillicons.dev/icons?i=python&theme=light "Python") ![Java](https://skillicons.dev/icons?i=java&theme=light "Java") ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light "SQLite") ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light "PostgreSQL") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light "MySQL")
-
-
----
-
-
-✨ Let's build something amazing together!✨
+![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="50" height="50"/> ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi&theme=light "Raspberry Pi")
