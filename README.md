@@ -30,6 +30,12 @@ I hold a degree in **Information and Communications Technology**, a **Bachelor's
 
 ![Profile views](https://komarev.com/ghpvc/?username=yumeangelica&color=b06a9f&style=flat)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumeangelica/yumeangelica/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yumeangelica/yumeangelica/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yumeangelica/yumeangelica/output/github-snake.svg" />
+</picture>
+
 
 ## ${\color{#b06a9f}Tech\ Stack\ \&\ Tools}$
 
