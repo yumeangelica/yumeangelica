@@ -37,14 +37,14 @@ I hold a degree in **Information and Communications Technology**, a **Bachelor's
 </picture>
 
 
-## ${\color{#b06a9f}Tech\ Stack\ \&\ Tools}$
+## ${\color{#b06a9f}Tech\ Stack\ and\ Tools}$
 
 
 ### ${\color{#b06a9f}Programming\ Languages}$
 
 ![JavaScript](https://skillicons.dev/icons?i=js&theme=light "JavaScript") ![TypeScript](https://skillicons.dev/icons?i=ts&theme=light "TypeScript") ![Python](https://skillicons.dev/icons?i=python&theme=light "Python") ![Java](https://skillicons.dev/icons?i=java&theme=light "Java") ![PHP](https://skillicons.dev/icons?i=php&theme=light "PHP")
 
-### ${\color{#b06a9f}Frontend\ Frameworks\ \&\ Libraries}$
+### ${\color{#b06a9f}Frontend\ Frameworks\ and\ Libraries}$
 
 ![React](https://skillicons.dev/icons?i=react&theme=light "React") ![Redux](https://skillicons.dev/icons?i=redux&theme=light "Redux") ![Vue](https://skillicons.dev/icons?i=vue&theme=light "Vue.js") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="50" height="50"/> ![Pinia](https://skillicons.dev/icons?i=pinia&theme=light "Pinia")
 
@@ -56,7 +56,7 @@ I hold a degree in **Information and Communications Technology**, a **Bachelor's
 
 ![MongoDB](https://skillicons.dev/icons?i=mongo&theme=light "MongoDB") ![Firebase](https://skillicons.dev/icons?i=firebase&theme=light "Firebase") ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=light "SQLite") ![MySQL](https://skillicons.dev/icons?i=mysql&theme=light "MySQL") ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light "PostgreSQL")
 
-### ${\color{#b06a9f}Styling\ \&\ Design}$
+### ${\color{#b06a9f}Styling\ and\ Design}$
 
 ![HTML](https://skillicons.dev/icons?i=html&theme=light "HTML5") ![CSS](https://skillicons.dev/icons?i=css&theme=light "CSS3") ![Sass](https://skillicons.dev/icons?i=sass&theme=light "Sass") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light "Bootstrap") ![Figma](https://skillicons.dev/icons?i=figma&theme=light "Figma")
 
@@ -64,10 +64,10 @@ I hold a degree in **Information and Communications Technology**, a **Bachelor's
 
 ![Vitest](https://skillicons.dev/icons?i=vitest&theme=light "Vitest") ![Jest](https://skillicons.dev/icons?i=jest&theme=light "Jest") ![Cypress](https://skillicons.dev/icons?i=cypress&theme=light "Cypress") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original-wordmark.svg" title="SonarQube" alt="SonarQube" width="50" height="50"/>
 
-### ${\color{#b06a9f}Build\ \&\ Development\ Tools}$
+### ${\color{#b06a9f}Build\ and\ Dev\ Tools}$
 
 ![Vite](https://skillicons.dev/icons?i=vite&theme=light "Vite") ![Webpack](https://skillicons.dev/icons?i=webpack&theme=light "Webpack")
 
-### ${\color{#b06a9f}DevOps,\ CI/CD\ \&\ Cloud}$
+### ${\color{#b06a9f}DevOps\ and\ Cloud}$
 
 ![Git](https://skillicons.dev/icons?i=git&theme=light "Git") ![GitHub](https://skillicons.dev/icons?i=github&theme=light "GitHub") ![Bitbucket](https://skillicons.dev/icons?i=bitbucket&theme=light "Bitbucket") ![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light "GitHub Actions") ![Docker](https://skillicons.dev/icons?i=docker&theme=light "Docker") ![Azure](https://skillicons.dev/icons?i=azure&theme=light "Microsoft Azure") <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="50" height="50"/> ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi&theme=light "Raspberry Pi")
