@@ -24,9 +24,11 @@ I hold an ICT degree from Business College Helsinki and a **Bachelor of Science 
 
 ---
 
+
 ## ${\color{#b06a9f}Selected\ Project\ Proof}$
 
 ### ${\color{#b06a9f}Portfolio\ Website}$
+
 
 Public Vue 3 portfolio for selected software development projects and career-facing copy. Built with Vue, Bun, Vite, Biome, Vitest, JSON-based content, accessibility-minded UI, and GitHub Actions deployment to GitHub Pages.
 
