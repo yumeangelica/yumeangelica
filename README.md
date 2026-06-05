@@ -25,7 +25,7 @@ I hold an ICT degree from Business College Helsinki and a **Bachelor of Science 
 ---
 
 
-## ${\color{#b06a9f}Selected\ Project\ Proof}$
+## ${\color{#b06a9f}Projects}$
 
 ### ${\color{#b06a9f}Portfolio\ Website}$
 
